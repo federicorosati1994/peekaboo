@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="599.69" height="447.5" viewBox="0 0 599.69 447.5">
+  <defs>
+    <style>
+      .programma-lezioni-1, .programma-lezioni-2, .programma-lezioni-3 {
+        fill: none;
+      }
+
+      .programma-lezioni-1, .programma-lezioni-10, .programma-lezioni-12, .programma-lezioni-14, .programma-lezioni-2, .programma-lezioni-3, .programma-lezioni-7 {
+        stroke-miterlimit: 10;
+      }
+
+      .programma-lezioni-1 {
+        stroke: url(#Sfumatura_senza_nome_14);
+      }
+
+      .programma-lezioni-2 {
+        stroke-dasharray: 4.99 4.99;
+      }
+
+      .programma-lezioni-2, .programma-lezioni-3 {
+        stroke: url(#Sfumatura_senza_nome_14-2);
+      }
+
+      .programma-lezioni-11, .programma-lezioni-13, .programma-lezioni-15, .programma-lezioni-4, .programma-lezioni-5, .programma-lezioni-8 {
+        font-size: 14px;
+        font-family: RobotoMono-Bold, Roboto Mono;
+        font-weight: 700;
+      }
+
+      .programma-lezioni-4 {
+        fill: #d329bd;
+      }
+
+      .programma-lezioni-11, .programma-lezioni-13, .programma-lezioni-15, .programma-lezioni-5, .programma-lezioni-8 {
+        fill: #29abe2;
+      }
+
+      .programma-lezioni-6 {
+        fill: #333;
+      }
+
+      .programma-lezioni-10, .programma-lezioni-12, .programma-lezioni-14, .programma-lezioni-7, .programma-lezioni-9 {
+        fill: #fff;
+      }
+
+      .programma-lezioni-10, .programma-lezioni-12, .programma-lezioni-14, .programma-lezioni-7 {
+        stroke: #29abe2;
+      }
+
+      .programma-lezioni-10, .programma-lezioni-8 {
+        opacity: 0.7;
+      }
+
+      .programma-lezioni-11, .programma-lezioni-12 {
+        opacity: 0.5;
+      }
+
+      .programma-lezioni-13, .programma-lezioni-14 {
+        opacity: 0.3;
+      }
+
+      .programma-lezioni-15 {
+        opacity: 0.1;
+      }
+    </style>
+    <linearGradient id="Sfumatura_senza_nome_14" data-name="Sfumatura senza nome 14" x1="105.11" y1="18.5" x2="105.11" y2="447.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="Sfumatura_senza_nome_14-2" x1="105.11" y1="18.5" x2="105.11" y2="447.5" xlink:href="#Sfumatura_senza_nome_14"/>
+  </defs>
+  <title>programma-lezioni</title>
+  <g id="Livello_2" data-name="Livello 2">
+    <g id="Livello_1-2" data-name="Livello 1">
+      <g>
+        <g>
+          <line class="programma-lezioni-1" x1="105.11" y1="18.5" x2="105.11" y2="21"/>
+          <line class="programma-lezioni-2" x1="105.11" y1="25.99" x2="105.11" y2="442.51"/>
+          <line class="programma-lezioni-3" x1="105.11" y1="445" x2="105.11" y2="447.5"/>
+        </g>
+        <text class="programma-lezioni-4" transform="translate(8.4 13.59)">2 Aprile</text>
+        <text class="programma-lezioni-5" transform="translate(137.61 13.59)">18:00 - 21:00<tspan class="programma-lezioni-6" x="109.22" y="0" xml:space="preserve"> Startup ed investitori</tspan></text>
+        <circle class="programma-lezioni-7" cx="105.11" cy="9.5" r="9"/>
+        <text class="programma-lezioni-4" transform="translate(8.4 53.59)">9 Aprile</text>
+        <text class="programma-lezioni-5" transform="translate(137.61 53.59)">18:00 - 21:00<tspan class="programma-lezioni-6" x="109.22" y="0" xml:space="preserve"> Customer discovery e posizionamento</tspan></text>
+        <circle class="programma-lezioni-7" cx="105.11" cy="49.5" r="9"/>
+        <text class="programma-lezioni-4" transform="translate(0 93.59)">16 Aprile</text>
+        <text class="programma-lezioni-5" transform="translate(137.61 93.59)">18:00 - 21:00<tspan class="programma-lezioni-6" x="109.22" y="0" xml:space="preserve"> Business Model Canvas e Lean Canvas</tspan></text>
+        <circle class="programma-lezioni-7" cx="105.11" cy="89.5" r="9"/>
+        <text class="programma-lezioni-4" transform="translate(0 133.59)">23 Aprile</text>
+        <text class="programma-lezioni-5" transform="translate(137.61 133.59)">18:00 - 21:00<tspan class="programma-lezioni-6" x="109.22" y="0" xml:space="preserve"> Direct Marketing</tspan></text>
+        <circle class="programma-lezioni-7" cx="105.11" cy="129.5" r="9"/>
+        <text class="programma-lezioni-4" transform="translate(0 173.59)">30 Aprile</text>
+        <text class="programma-lezioni-5" transform="translate(137.61 173.59)">18:00 - 21:00<tspan class="programma-lezioni-6" x="109.22" y="0" xml:space="preserve"> Traction </tspan></text>
+        <circle class="programma-lezioni-7" cx="105.11" cy="169.5" r="9"/>
+        <text class="programma-lezioni-4" transform="translate(8.4 213.59)">7 Maggio</text>
+        <text class="programma-lezioni-5" transform="translate(137.61 213.59)">18:00 - 21:00<tspan class="programma-lezioni-6" x="109.22" y="0" xml:space="preserve"> Tracciare il profilo del proprio pubblico</tspan></text>
+        <circle class="programma-lezioni-7" cx="105.11" cy="209.5" r="9"/>
+        <text class="programma-lezioni-4" transform="translate(0 253.59)">14 Maggio</text>
+        <text class="programma-lezioni-5" transform="translate(137.61 253.59)">18:00 - 21:00<tspan class="programma-lezioni-6" x="109.22" y="0" xml:space="preserve"> UX Design nella vita di tutti i giorni</tspan></text>
+        <circle class="programma-lezioni-7" cx="105.11" cy="249.5" r="9"/>
+        <text class="programma-lezioni-4" transform="translate(0 293.59)">21 Maggio</text>
+        <text class="programma-lezioni-8" transform="translate(137.61 293.59)">18:00 - 21:00<tspan class="programma-lezioni-6" x="109.22" y="0" xml:space="preserve"> Leggi di Gestalt - Colore e tipografia</tspan></text>
+        <circle class="programma-lezioni-9" cx="105.03" cy="370" r="9"/>
+        <circle class="programma-lezioni-9" cx="105.03" cy="408.6" r="9"/>
+        <circle class="programma-lezioni-9" cx="105.03" cy="329" r="9"/>
+        <circle class="programma-lezioni-9" cx="105.03" cy="289" r="9"/>
+        <circle class="programma-lezioni-10" cx="105.11" cy="289.5" r="9"/>
+        <text class="programma-lezioni-4" transform="translate(0 333.59)">28 Maggio</text>
+        <text class="programma-lezioni-11" transform="translate(137.61 333.59)">18:00 - 21:00<tspan class="programma-lezioni-6" x="109.22" y="0" xml:space="preserve"> Brand design</tspan></text>
+        <circle class="programma-lezioni-12" cx="105.11" cy="329.5" r="9"/>
+        <text class="programma-lezioni-4" transform="translate(8.4 373.59)">4 Giugno</text>
+        <text class="programma-lezioni-13" transform="translate(137.61 373.59)">18:00 - 21:00<tspan class="programma-lezioni-6" x="109.22" y="0" xml:space="preserve"> Illustrator</tspan></text>
+        <circle class="programma-lezioni-14" cx="104.53" cy="369.1" r="9"/>
+        <circle class="programma-lezioni-14" cx="104.53" cy="409.1" r="9"/>
+        <text class="programma-lezioni-4" transform="translate(0 413.59)">11 Giugno</text>
+        <text class="programma-lezioni-15" transform="translate(137.61 413.59)">18:00 - 21:00<tspan class="programma-lezioni-6" x="109.22" y="0" xml:space="preserve"> Photoshop</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

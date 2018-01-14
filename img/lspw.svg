@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="264.74" height="245.87" viewBox="0 0 264.74 245.87">
+  <defs>
+    <style>
+      .lspw-1 {
+        fill: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+        stroke: url(#Sfumatura_senza_nome_11);
+      }
+
+      .lspw-2, .lspw-3 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3.23px;
+      }
+
+      .lspw-2 {
+        stroke: #c9f;
+      }
+
+      .lspw-3 {
+        stroke: #3cf;
+      }
+
+      .lspw-4 {
+        font-size: 16px;
+        fill: #666;
+        font-family: OpenSans, Open Sans;
+      }
+    </style>
+    <linearGradient id="Sfumatura_senza_nome_11" data-name="Sfumatura senza nome 11" x1="68.35" y1="22.71" x2="188.06" y2="22.71" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c9f"/>
+      <stop offset="1" stop-color="#3cf"/>
+    </linearGradient>
+  </defs>
+  <title>lspw</title>
+  <g id="Livello_2" data-name="Livello 2">
+    <g id="Livello_1-2" data-name="Livello 1">
+      <g>
+        <g>
+          <path class="lspw-1" d="M176.58,1.34a10.5,10.5,0,0,0-10.27,8.43,9.9,9.9,0,0,0-1.45-.1,10,10,0,0,0-1.46.1,10.46,10.46,0,0,0-17.84-5.18A18.16,18.16,0,0,0,134.74,1h-6.51a10.36,10.36,0,0,0-5.63,1.66A10.36,10.36,0,0,0,117,1h-8a16.22,16.22,0,0,0-16.2,16.21,10.39,10.39,0,0,0,2,6.19,9.36,9.36,0,0,0-1.3-.09H90.29V11.47a10.47,10.47,0,0,0-20.94,0V33.78A10.49,10.49,0,0,0,79.82,44.26H93.55a10.46,10.46,0,0,0,5.18-1.38,10.4,10.4,0,0,0,5.17,1.38h7.74a15.84,15.84,0,0,0,9.17-2.92,10.48,10.48,0,0,0,17.41-4.22,18.22,18.22,0,0,0,5.91-2.29,16.34,16.34,0,0,0,20.73,8.52,16.36,16.36,0,0,0,22.2-15.26V11.82A10.49,10.49,0,0,0,176.58,1.34Z"/>
+          <g>
+            <line class="lspw-2" x1="79.82" y1="33.8" x2="79.82" y2="11.49"/>
+            <line class="lspw-3" x1="93.55" y1="33.8" x2="79.82" y2="33.8"/>
+            <line class="lspw-2" x1="128.23" y1="11.49" x2="128.23" y2="33.96"/>
+            <path class="lspw-3" d="M134.74,27a7.75,7.75,0,1,0,0-15.5h-6.51"/>
+            <path class="lspw-2" d="M108.23,22.89h4.18a5.48,5.48,0,0,1-.77,10.91H103.9"/>
+            <path class="lspw-3" d="M103.28,17.22A5.72,5.72,0,0,1,109,11.49H117"/>
+            <path class="lspw-2" d="M153.13,11.82V28.1a5.86,5.86,0,1,0,11.72,0"/>
+            <path class="lspw-3" d="M164.85,20.14v8a5.87,5.87,0,0,0,11.73,0V11.82"/>
+          </g>
+        </g>
+        <text class="lspw-4" transform="translate(3.2 118.58)">Masterclass online per immergersi <tspan x="39.2" y="21">nel mondo delle startup </tspan><tspan x="44.25" y="42">comodamente da casa</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

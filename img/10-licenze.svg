@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="223.49" height="105.31" viewBox="0 0 223.49 105.31">
+  <defs>
+    <style>
+      .licenze-1 {
+        font-size: 72px;
+        fill: #4286fb;
+        font-family: RobotoMono-Bold, Roboto Mono;
+        font-weight: 700;
+      }
+
+      .licenze-2 {
+        font-size: 21px;
+        fill: gray;
+        font-family: OpenSans, Open Sans;
+      }
+    </style>
+  </defs>
+  <title>10-licenze</title>
+  <g id="Livello_2" data-name="Livello 2">
+    <g id="Livello_1-2" data-name="Livello 1">
+      <g>
+        <text class="licenze-1" transform="translate(68.54 61.59)">10</text>
+        <text class="licenze-2" transform="translate(0 99.62)">Licenze software gratis</text>
+      </g>
+    </g>
+  </g>
+</svg>

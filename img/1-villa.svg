@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="111.39" height="105.31" viewBox="0 0 111.39 105.31">
+  <defs>
+    <style>
+      .villa-1 {
+        font-size: 21px;
+        fill: gray;
+        font-family: OpenSans, Open Sans;
+      }
+
+      .villa-2 {
+        font-size: 72px;
+        fill: #4286fb;
+        font-family: RobotoMono-Bold, Roboto Mono;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <title>1-villa</title>
+  <g id="Livello_2" data-name="Livello 2">
+    <g id="Livello_1-2" data-name="Livello 1">
+      <g>
+        <text class="villa-1" transform="translate(0 99.62)">Villa all’EUR</text>
+        <text class="villa-2" transform="translate(34.09 61.59)">1</text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="343.18" height="718.94" viewBox="0 0 343.18 718.94">
+  <defs>
+    <style>
+      .table3-1 {
+        fill: #fff;
+      }
+
+      .table3-10, .table3-2, .table3-8 {
+        fill: none;
+      }
+
+      .table3-2, .table3-8 {
+        stroke: #e6e6e6;
+      }
+
+      .table3-10, .table3-2, .table3-8, .table3-9 {
+        stroke-miterlimit: 10;
+      }
+
+      .table3-3, .table3-5 {
+        font-size: 31.6px;
+        font-family: OpenSans-Light, Open Sans;
+      }
+
+      .table3-3 {
+        fill: #d329bd;
+      }
+
+      .table3-4 {
+        font-size: 15.8px;
+      }
+
+      .table3-4, .table3-7 {
+        font-family: OpenSans, Open Sans;
+      }
+
+      .table3-6 {
+        fill: #9bca5b;
+      }
+
+      .table3-7 {
+        font-size: 13.17px;
+        fill: #a8a8a8;
+      }
+
+      .table3-8 {
+        stroke-width: 0.75px;
+      }
+
+      .table3-9 {
+        fill: #e6e6e6;
+        opacity: 0.5;
+        stroke: url(#Sfumatura_senza_nome_6);
+      }
+
+      .table3-10 {
+        stroke: #4286fb;
+      }
+
+      .table3-11 {
+        font-size: 18.43px;
+        fill: #4286fb;
+        font-family: RobotoMono-Bold, Roboto Mono;
+        font-weight: 700;
+      }
+    </style>
+    <linearGradient id="Sfumatura_senza_nome_6" data-name="Sfumatura senza nome 6" x1="0.18" y1="217.8" x2="343.18" y2="217.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a030c6"/>
+      <stop offset="0.25" stop-color="#7b49d8"/>
+      <stop offset="0.59" stop-color="#4f66ed"/>
+      <stop offset="0.85" stop-color="#3478fa"/>
+      <stop offset="1" stop-color="#2a7fff"/>
+    </linearGradient>
+  </defs>
+  <title>table3</title>
+  <g id="Livello_2" data-name="Livello 2">
+    <g id="Livello_1-2" data-name="Livello 1">
+      <g>
+        <rect class="table3-1" width="342.06" height="718.94"/>
+        <rect class="table3-2" x="141.72" y="112.73" width="60.57" height="0.88" rx="0.44" ry="0.44"/>
+        <text class="table3-3" transform="translate(98.78 164.83)">3000 + iva</text>
+        <text class="table3-4" transform="translate(139.68 266.25)">31 lezioni</text>
+        <text class="table3-5" transform="translate(72.97 84.95)">Pacchetto Full</text>
+        <polygon class="table3-6" points="120.65 266.04 115.77 261.16 117.63 259.3 120.65 262.32 126.74 256.23 128.61 258.09 120.65 266.04"/>
+        <g>
+          <text class="table3-7" transform="translate(41.68 347.01)">Hotjar, Invision, Instapage, Adobe Creative<tspan x="2.63" y="21.07">Achive Campaign, Elementor, Proof basic,</tspan><tspan x="79.64" y="42.14">Seo Zoom, Zapir</tspan></text>
+          <text class="table3-4" transform="translate(142.32 317.16)">Licenze </text>
+          <polygon class="table3-6" points="120.65 316.96 115.77 312.07 117.63 310.21 120.65 313.23 126.74 307.14 128.61 309 120.65 316.96"/>
+          <line class="table3-8" x1="44.72" y1="285.25" x2="297.53" y2="285.25"/>
+        </g>
+        <g>
+          <text class="table3-4" transform="translate(71.21 440.06)">Framework prototipazione </text>
+          <polygon class="table3-6" points="50.43 439.85 45.54 434.97 47.41 433.11 50.43 436.13 56.52 430.04 58.38 431.9 50.43 439.85"/>
+          <line class="table3-8" x1="44.72" y1="409.02" x2="297.53" y2="409.02"/>
+        </g>
+        <g>
+          <text class="table3-7" transform="translate(69.12 518.18)">Account piattaforma web LSP Web</text>
+          <text class="table3-4" transform="translate(108.08 489.22)">Account LSP Web</text>
+          <polygon class="table3-6" points="93.44 489.01 88.56 484.13 90.42 482.27 93.44 485.29 99.53 479.2 101.39 481.06 93.44 489.01"/>
+          <line class="table3-8" x1="45.6" y1="459.94" x2="298.41" y2="459.94"/>
+        </g>
+        <g>
+          <text class="table3-7" transform="translate(51.03 595.43)">Postazione fissa in spazio di coworking </text>
+          <text class="table3-4" transform="translate(76.14 566.47)">Postazione Startup Studio</text>
+          <polygon class="table3-6" points="59.2 565.38 54.32 560.5 56.19 558.64 59.2 561.66 65.3 555.57 67.16 557.43 59.2 565.38"/>
+          <line class="table3-8" x1="44.72" y1="538.06" x2="297.53" y2="538.06"/>
+        </g>
+        <line class="table3-8" x1="44.72" y1="610.92" x2="297.53" y2="610.92"/>
+        <line class="table3-9" x1="343.18" y1="217.8" x2="0.18" y2="217.8"/>
+        <g>
+          <rect class="table3-10" x="31.68" y="631.87" width="279" height="48.28" rx="23.11" ry="23.11"/>
+          <text class="table3-11" transform="translate(51.13 662.27)">Vorrei un appuntamento</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

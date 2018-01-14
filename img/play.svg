@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104" height="104" viewBox="0 0 104 104">
+  <defs>
+    <style>
+      .play-1 {
+        fill: #fff;
+      }
+
+      .play-2, .play-3, .play-4 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .play-2 {
+        stroke: #3cf;
+      }
+
+      .play-3 {
+        stroke: #4286fb;
+      }
+
+      .play-4 {
+        stroke: #d329bd;
+      }
+    </style>
+  </defs>
+  <title>play</title>
+  <g id="Livello_2" data-name="Livello 2">
+    <g id="Livello_1-2" data-name="Livello 1">
+      <g>
+        <circle class="play-1" cx="52" cy="52" r="52"/>
+        <polyline class="play-2" points="34.5 53.05 34.5 77.11 56.13 64.63"/>
+        <polyline class="play-3" points="55.82 39.14 34.5 26.83 34.5 53"/>
+        <polyline class="play-4" points="56.13 64.63 78 52 55.82 39.19"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1371.52" height="735.46" viewBox="0 0 1371.52 735.46">
+  <defs>
+    <style>
+      .cls-1, .cls-5, .cls-6 {
+        opacity: 0.15;
+      }
+
+      .cls-1 {
+        font-size: 12.02px;
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+
+      .cls-2 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-3 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-4 {
+        fill: #1c1cba;
+      }
+
+      .cls-5, .cls-6 {
+        fill: none;
+      }
+
+      .cls-5 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <title>bg-cta</title>
+  <g id="Livello_2" data-name="Livello 2">
+    <g id="Livello_1-2" data-name="Livello 1">
+      <g>
+        <text class="cls-1" transform="translate(367.01 600.01)"><tspan class="cls-2">L</tspan><tspan x="5.5" y="0">o</tspan><tspan class="cls-3" x="12.1" y="0">r</tspan><tspan x="15.91" y="0">em ipsum</tspan></text>
+        <rect class="cls-4" x="3.61" y="4.98" width="1365.87" height="685.87"/>
+        <circle class="cls-5" cx="494.5" cy="369.96" r="364"/>
+        <path class="cls-5" d="M4.59,255.67a512.89,512.89,0,0,1,80.16-6.27c272.93,0,495.68,214.82,508.39,484.59"/>
+        <path class="cls-5" d="M.67,623.45a162.66,162.66,0,0,1,213.52,64.82"/>
+        <path class="cls-5" d="M943.7,691.23q-.68-11.44-.68-23.06c0-212,171.89-383.91,383.92-383.91a388.5,388.5,0,0,1,39.25,2"/>
+        <path class="cls-5" d="M1169,691.27a475.11,475.11,0,0,1,102.52-174.56"/>
+        <path class="cls-5" d="M1230,6c-8,188-162.91,338.05-352.9,338.05-99.91,0-207.23-58.79-256.23-105.82-37.23-31.36-82.3-54.87-125.41-54.87A180.78,180.78,0,1,0,676.25,364.08"/>
+        <line class="cls-5" x1="81.99" y1="686.93" x2="767.87" y2="1.06"/>
+        <line class="cls-5" x1="846.25" y1="4.98" x2="163.32" y2="687.91"/>
+        <line class="cls-5" x1="46.72" y1="4.98" x2="755.13" y2="713.39"/>
+        <line class="cls-5" x1="899.16" y1="4.98" x2="1370.46" y2="476.27"/>
+        <line class="cls-5" x1="1369.48" y1="261.69" x2="913.86" y2="717.31"/>
+        <line class="cls-5" x1="748.27" y1="369.47" x2="1070.63" y2="691.83"/>
+        <line class="cls-5" x1="1173.51" y1="455.7" x2="1369.48" y2="651.66"/>
+        <line class="cls-5" x1="1003.02" y1="108.84" x2="384.76" y2="727.11"/>
+        <line class="cls-5" x1="3.61" y1="608.55" x2="58.48" y2="686.93"/>
+        <rect class="cls-6" x="3.67" y="190.92" width="1366.78" height="494.65"/>
+      </g>
+    </g>
+  </g>
+</svg>
