@@ -7,8 +7,6 @@ var swiper = new Swiper('.swiper-container', {
   	},
 });
 
-window.onscroll = function() {myFunction()};
-
 function myFunction() {
   var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
   var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
@@ -17,3 +15,5 @@ function myFunction() {
 }
 
 new WOW().init();
+
+document.addEventListener('scroll', myFunction, true /*Capture event*/);
