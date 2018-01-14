@@ -35,7 +35,7 @@ $secondary-color: #d329bd;
   padding: 0
 }
 
-.btn-default.focus, .btn-default:focus, .btn-default:active:focus{
+.btn-default.focus, .btn-default:focus, .btn-default:active:focus, .video a{
   outline: none;
 }
 
@@ -91,15 +91,9 @@ $secondary-color: #d329bd;
   }
 }
 
-html,body {
-  max-width: 100%;
-  overflow-x: hidden;
-}
-
 body{
   color: #333333;
-  overflow-y: scroll; /* has to be scroll, not auto */
-  -webkit-overflow-scrolling: touch;
+  font-size: 16px;
 }
 
 #scroller{
@@ -137,8 +131,6 @@ p{
   background-size: 35%, 33%, 20%;
   background-position: 95% 200px, -6px 75px, right 0 top;
   background-color: #f9f9f9;
-  width: 110%;
-  transform: translateX(-5%);
   height: 750px;
   border-bottom-left-radius: 50% 20%;
   border-bottom-right-radius: 50% 20%;
@@ -178,12 +170,10 @@ p{
   h2{
     margin-bottom: 60px;
   }
-  width: 110%;
   background: white;
-  transform: translateX(-3%);
   border-bottom-left-radius: 50% 20%;
   border-bottom-right-radius: 50% 20%;
-  padding-bottom: 25px;
+  padding-bottom: 80px;
 }
 
 .divider{
@@ -191,7 +181,7 @@ p{
   background-position: center center;
   background-size: 100%;
   margin-top: -60px;
-  padding-bottom: 20px;
+  padding-bottom: 50px;
 
   h3{
     color: white;
@@ -209,21 +199,16 @@ p{
     margin-bottom: 50px;
   }
   margin-top: -50px;
-  width: 110%;
   background: white;
-  transform: translateX(-5%);
-  border-top-left-radius: 50% 10%;
-  border-top-right-radius: 50% 10%;
   padding-bottom: 10px;
 }
 
-.programmaLezioni, .perChiSS, .vantaggi, .numbers, .sponsors, .table-price{
-  padding: 80px 0;
-  padding-bottom: 60px 
+.programmaLezioni, .perChiSS, .vantaggi, .numbers, .sponsors{
+  padding-bottom: 150px 
 }
 
-.vantaggi{
-  padding-bottom: 0;
+.numbers{
+  padding-bottom: 80px;
 }
 
 .numbers{
@@ -233,7 +218,12 @@ p{
   }
 }
 
+.table-price{
+  margin-top: 80px;
+}
+
 .programmaLezioni{
+  margin: 50px 0;
   p{
     margin: 30px;
     line-height: 36px
@@ -314,12 +304,11 @@ p{
 }
 
 .sponsors{
-  width: 110%;
   background: white;
-  transform: translateX(-5%);
-  border-top-left-radius: 50% 10%;
-  border-top-right-radius: 50% 10%;
+  border-top-left-radius: 50% 5%;
+  border-top-right-radius: 50% 5%;
   margin-top: -80px;
+  padding-top: 80px;
 
   .thumbnail{
     border: none;
@@ -512,6 +501,11 @@ p{
     font-size: 28px; 
   }
 
+  #video-intro{
+    width: 100%;
+    height: 150px
+  }
+
   .hero h1{
     line-height: 40px;
   }
@@ -540,11 +534,6 @@ p{
   .listenPeekaboo{
     border-bottom-left-radius: 50% 7%;
     border-bottom-right-radius: 50% 7%;
-  }
-
-  .cosa-impari{
-    border-top-left-radius: 50% 5%;
-    border-top-right-radius: 50% 5%;
   }
 
   .sponsors{
@@ -582,6 +571,10 @@ p{
     margin-left: 20px;
     margin-top: 45px;
   }
+
+  .ctaBox h2{
+    padding-right: 0;
+  }
 }
 
 @media screen and (max-width: 768px){
@@ -608,6 +601,8 @@ p{
 
   .hero{
     background-position: 92% 430px, -6px 400px, right 0 top;
+    border-bottom-left-radius: 50% 1%;
+    border-bottom-right-radius: 50% 1%;
   }
 
   .hero iframe{
@@ -623,8 +618,8 @@ p{
   }
 
   .listenPeekaboo{
-    border-bottom-left-radius: 50% 7%;
-    border-bottom-right-radius: 50% 7%;
+    border-bottom-left-radius: 50% 1%;
+    border-bottom-right-radius: 50% 1%;
   }
 
   .divider h3{
@@ -632,20 +627,14 @@ p{
     line-height: 35px;
   }
 
-  .cosa-impari{
-    border-top-left-radius: 50% 5%;
-    border-top-right-radius: 50% 5%;
-  }
-
   .sponsors{
-    border-top-left-radius: 50% 4%;
-    border-top-right-radius: 50% 4%;
+    border-top-left-radius: 50% 1%;
+    border-top-right-radius: 50% 1%;
   }
 
   .table-wrapper{
     box-shadow: none;
     margin-top: 130px;
-    padding: 0 10%;
   }
 
   .tables{
@@ -706,6 +695,8 @@ p{
   .hero{
     background-position: 92% 430px, -20px 340px, right 0 top;
     height: 620px;
+    border-bottom-left-radius: 50% 1%;
+    border-bottom-right-radius: 50% 1%;
   }
 
   .hero iframe{
@@ -721,14 +712,8 @@ p{
   }
 
   .listenPeekaboo{
-    border-bottom-left-radius: 50% 5%;
-    border-bottom-right-radius: 50% 5%;
-    transform: translateX(0%);
-  }
-
-  .cosa-impari{
-    border-top-left-radius: 50% 5%;
-    border-top-right-radius: 50% 5%;
+    border-bottom-left-radius: 50% 1%;
+    border-bottom-right-radius: 50% 1%;
   }
 
   .programmaLezioni p{
@@ -736,14 +721,13 @@ p{
   }
 
   .sponsors{
-    border-top-left-radius: 50% 4%;
-    border-top-right-radius: 50% 4%;
+    border-top-left-radius: 50% 1%;
+    border-top-right-radius: 50% 1%;
   }
 
   .table-wrapper{
     box-shadow: none;
     margin-top: 60px;
-    padding: 0 10%;
   }
 
   .tables{
